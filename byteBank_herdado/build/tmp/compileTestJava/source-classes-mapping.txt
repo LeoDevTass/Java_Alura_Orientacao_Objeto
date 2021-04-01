@@ -1,2 +1,4 @@
 testFuncionario.java
  testFuncionario
+TestGerente.java
+ TestGerente

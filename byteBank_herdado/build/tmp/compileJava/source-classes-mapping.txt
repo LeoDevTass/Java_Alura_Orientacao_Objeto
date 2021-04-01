@@ -1,2 +1,4 @@
 Funcionario.java
  Funcionario
+Gerente.java
+ Gerente
