@@ -1,4 +1,8 @@
+TestReferencia.java
+ TestReferencia
 testFuncionario.java
  testFuncionario
 TestGerente.java
  TestGerente
+TesteContas.java
+ TesteContas

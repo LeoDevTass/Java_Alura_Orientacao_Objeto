@@ -1,4 +1,16 @@
+EditorVideo.java
+ EditorVideo
+ControleBonificacao.java
+ ControleBonificacao
 Funcionario.java
  Funcionario
 Gerente.java
  Gerente
+Cliente.java
+ Cliente
+ContaPoupanca.java
+ ContaPoupanca
+Conta.java
+ Conta
+ContaCorrente.java
+ ContaCorrente

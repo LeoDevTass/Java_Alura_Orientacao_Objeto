@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Alura_Orientacao_Objeto.iml" filepath="$PROJECT_DIR$/.idea/Java_Alura_Orientacao_Objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byteBank_herdado/byteBank_herdado_conta.iml" filepath="$PROJECT_DIR$/byteBank_herdado/byteBank_herdado_conta.iml" />
     </modules>
   </component>
 </project>
