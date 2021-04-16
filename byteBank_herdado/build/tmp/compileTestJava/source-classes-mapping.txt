@@ -6,3 +6,5 @@ testFuncionario.java
  testFuncionario
 TesteContas.java
  TesteContas
+TesteSistema.java
+ TesteSistema
